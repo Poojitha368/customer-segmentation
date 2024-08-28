@@ -1,6 +1,13 @@
 ﻿# customer-segmentation
 Live demo : https://customer-segmentation-yodpb5nv2jjfp39smyzmhf.streamlit.app/
 
+Highlights:
+1) Made dataset on our own by research
+2) Data cleaning and preprocessing
+3) Identifying the important features
+4) Applying k-means clustering
+5) Prediction and segmentation for the new data
+
 ![image](https://github.com/user-attachments/assets/b6b938db-4bcd-4592-8396-b626388c5f9f)
 
 
