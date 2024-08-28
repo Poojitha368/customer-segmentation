@@ -1,7 +1,7 @@
 ﻿# customer-segmentation
 Live demo : https://customer-segmentation-yodpb5nv2jjfp39smyzmhf.streamlit.app/
 
-Highlights:
+<b>Highlights:</b>
 1) Made dataset on our own by research
 2) Data cleaning and preprocessing
 3) Identifying the important features
