@@ -1,5 +1,5 @@
 ﻿# customer-segmentation
-Live demo : https://customer-segmentation-yodpb5nv2jjfp39smyzmhf.streamlit.app/
+<b>Live demo </b>: https://customer-segmentation-yodpb5nv2jjfp39smyzmhf.streamlit.app/
 
 <b>Highlights:</b>
 1) Made dataset on our own by research
